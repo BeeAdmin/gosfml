@@ -1,8 +1,8 @@
 package sf
 
 import (
-	"github.com/go-gl/gl"
-	glfw "github.com/go-gl/glfw3"
+	"github.com/go-gl/gl/v3.2-compatibility/gl"
+	glfw "github.com/go-gl/glfw3/v3.1/glfw"
 )
 
 func init() {
