@@ -2,7 +2,7 @@ package sf
 
 import (
 	"github.com/go-gl/gl"
-	glfw "github.com/go-gl/glfw3"
+	glfw "/home/malek/Go/src/github.com/go-gl/glfw3/v3.1/glfw"
 )
 
 func init() {
